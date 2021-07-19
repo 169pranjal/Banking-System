@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/banking-project/static/css/main.2605e03b.chunk.css",
+    "main.js": "/banking-project/static/js/main.890dff37.chunk.js",
+    "main.js.map": "/banking-project/static/js/main.890dff37.chunk.js.map",
+    "runtime-main.js": "/banking-project/static/js/runtime-main.98f48230.js",
+    "runtime-main.js.map": "/banking-project/static/js/runtime-main.98f48230.js.map",
+    "static/css/2.f6c7d7d9.chunk.css": "/banking-project/static/css/2.f6c7d7d9.chunk.css",
+    "static/js/2.e7290a54.chunk.js": "/banking-project/static/js/2.e7290a54.chunk.js",
+    "static/js/2.e7290a54.chunk.js.map": "/banking-project/static/js/2.e7290a54.chunk.js.map",
+    "static/js/3.310956fa.chunk.js": "/banking-project/static/js/3.310956fa.chunk.js",
+    "static/js/3.310956fa.chunk.js.map": "/banking-project/static/js/3.310956fa.chunk.js.map",
+    "index.html": "/banking-project/index.html",
+    "static/css/2.f6c7d7d9.chunk.css.map": "/banking-project/static/css/2.f6c7d7d9.chunk.css.map",
+    "static/css/main.2605e03b.chunk.css.map": "/banking-project/static/css/main.2605e03b.chunk.css.map",
+    "static/js/2.e7290a54.chunk.js.LICENSE.txt": "/banking-project/static/js/2.e7290a54.chunk.js.LICENSE.txt",
+    "static/media/2311974.651423b4.jpg": "/banking-project/static/media/2311974.651423b4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98f48230.js",
+    "static/css/2.f6c7d7d9.chunk.css",
+    "static/js/2.e7290a54.chunk.js",
+    "static/css/main.2605e03b.chunk.css",
+    "static/js/main.890dff37.chunk.js"
+  ]
+}
