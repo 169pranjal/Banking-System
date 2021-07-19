@@ -1,5 +1,5 @@
 import React from 'react';
-import classes from './Transactions.module.css';
+
 import { NavLink } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 import Transaction from './Transaction/Transaction';
